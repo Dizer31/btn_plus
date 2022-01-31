@@ -1,6 +1,0 @@
-{
-    "port": "COM7",
-    "configuration": "cpu=atmega328old",
-    "board": "arduino:avr:nano",
-    "sketch": "btn_plus.ino"
-}
